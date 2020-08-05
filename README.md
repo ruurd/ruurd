@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on finding a new assignment.
+- 🌱 I’m currently learning to use Java Money which can be daunting sometimes. 
+
 <!--
 **ruurd/ruurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
