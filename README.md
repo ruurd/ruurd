@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finding a new assignment.
-- 🌱 I’m currently learning to use Java Money which can be daunting sometimes. 
+- 🔭 I’m currently working for ASML as a software engineer.
+- 🌱 I’m currently looking into all manner of containerization and related subjects.
+- 💬 Ask me about what I think of programming and software engineering subjects.
+- 📫 How to reach me? Google is your friend.
 
 <!--
 **ruurd/ruurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
